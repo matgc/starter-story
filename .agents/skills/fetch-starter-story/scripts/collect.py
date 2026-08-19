@@ -31,7 +31,7 @@ def run_json(command: list[str]) -> dict:
 
 
 def existing_video_ids(repo_root: Path) -> set[str]:
-    index = repo_root / "videos" / "index.json"
+    index = repo_root / "kb" / "videos" / "index.json"
     if not index.exists():
         return set()
     return {item["video_id"] for item in json.loads(index.read_text())}

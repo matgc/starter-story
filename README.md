@@ -6,11 +6,11 @@ The archive is designed for builders who need practical help with marketing, dis
 
 ## Contents
 
-- [Video index](videos/README.md) - 53 videos, newest first
-- [Machine-readable video inventory](videos/index.json)
-- [Per-video marketing strategies](strategies/README.md)
-- [Cross-video marketing overview](strategies/overview.md)
-- [Description-link notes](links/README.md) - 145 canonical destinations
+- [Video index](kb/videos/README.md) - 53 videos, newest first
+- [Machine-readable video inventory](kb/videos/index.json)
+- [Per-video marketing strategies](kb/strategies/README.md)
+- [Cross-video marketing overview](kb/strategies/overview.md)
+- [Description-link notes](kb/links/README.md) - 145 canonical destinations
 - [Update skill](.agents/skills/fetch-starter-story/SKILL.md)
 
 Each video file contains:
@@ -24,17 +24,18 @@ Each video file contains:
 ## Organization
 
 ```text
-videos/
-  README.md
-  index.json
-  2026/
-    YYYY-MM-DD-video-title.md
-strategies/
-  README.md
-  overview.md
-links/
-  README.md
-  canonical-link-name.md
+kb/
+  videos/
+    README.md
+    index.json
+    2026/
+      YYYY-MM-DD-video-title.md
+  strategies/
+    README.md
+    overview.md
+  links/
+    README.md
+    canonical-link-name.md
 .agents/skills/fetch-starter-story/
   SKILL.md
   references/

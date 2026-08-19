@@ -2,7 +2,7 @@
 
 ## Video file
 
-Save each new video as `videos/YYYY/YYYY-MM-DD-<title-slug>.md`.
+Save each new video as `kb/videos/YYYY/YYYY-MM-DD-<title-slug>.md`.
 
 ```markdown
 ---
@@ -47,7 +47,7 @@ Keep the transcript verbatim apart from caption cleanup. Do not silently correct
 
 ## Link file
 
-Save one file per canonical destination as `links/<canonical-slug>.md`. Reuse it when tracking URLs resolve to the same destination.
+Save one file per canonical destination as `kb/links/<canonical-slug>.md`. Reuse it when tracking URLs resolve to the same destination.
 
 ```markdown
 # <Stable link name>
@@ -71,8 +71,8 @@ Save one file per canonical destination as `links/<canonical-slug>.md`. Reuse it
 
 ## Index updates
 
-1. Add the video to `videos/index.json`, newest first.
-2. Add it to `videos/README.md`, newest first.
-3. Add its full strategy summary to `strategies/README.md`, newest first.
-4. Update `strategies/overview.md` only when the new evidence changes the synthesis.
-5. Add new canonical link notes to `links/README.md` in name order.
+1. Add the video to `kb/videos/index.json`, newest first.
+2. Add it to `kb/videos/README.md`, newest first.
+3. Add its full strategy summary to `kb/strategies/README.md`, newest first.
+4. Update `kb/strategies/overview.md` only when the new evidence changes the synthesis.
+5. Add new canonical link notes to `kb/links/README.md` in name order.

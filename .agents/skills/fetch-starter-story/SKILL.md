@@ -28,11 +28,11 @@ python3 .agents/skills/fetch-starter-story/scripts/collect.py --repo-root .
 
 The command prints a temporary workspace under `artifacts/`. Read its `manifest.json`. Stop when `video_count` is zero, then clean the workspace.
 
-The collector uses the channel's `/videos` tab, which excludes Shorts. It compares YouTube IDs with `videos/index.json`, downloads no video media, prefers English creator captions, and otherwise uses English automatic captions.
+The collector uses the channel's `/videos` tab, which excludes Shorts. It compares YouTube IDs with `kb/videos/index.json`, downloads no video media, prefers English creator captions, and otherwise uses English automatic captions.
 
 ## Process new videos
 
-1. Verify each video's publication date is on or after 2026-01-01 and its ID is absent from `videos/index.json`.
+1. Verify each video's publication date is on or after 2026-01-01 and its ID is absent from `kb/videos/index.json`.
 2. Verify the item came from `/videos`, not `/shorts`.
 3. Use sub-agents for transcript analysis in small batches. This preserves the main agent's context.
 4. Write one file per video using the video template.
@@ -88,7 +88,7 @@ python3 .agents/skills/fetch-starter-story/scripts/cleanup.py '<workspace>'
 
 Input: `Sync Starter Story and add anything published since the last run.`
 
-Output: new `videos/YYYY/*.md` transcripts, reused or new `links/*.md` notes, updated video/link/strategy indexes, no retained media, and a concise count of added videos and links.
+Output: new `kb/videos/YYYY/*.md` transcripts, reused or new `kb/links/*.md` notes, updated video/link/strategy indexes, no retained media, and a concise count of added videos and links.
 
 ## Do and don't
 
