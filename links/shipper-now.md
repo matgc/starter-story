@@ -1,0 +1,17 @@
+# Shipper.now
+
+## What it contains
+
+Turn your idea into a live product by sending messages to AI. No need to code or design, Shipper handles everything for you.
+
+## Source details
+
+- Canonical destination: [https://shipper.now/](https://shipper.now/)
+- Resolved destination observed during collection: [https://shipper.now/](https://shipper.now/)
+- HTTP status observed: 200
+- Description links that resolve to this page:
+  - [https://shipper.now/](https://shipper.now/)
+
+## Mentioned by
+
+- [I Built A Micro-Version Of A $1B SaaS. Now I Make $50K/Month](../videos/2026/2026-05-28-i-built-a-micro-version-of-a-1b-saas-now-i-make-50k-month.md)

@@ -1,0 +1,149 @@
+# Link notes
+
+One note per canonical destination mentioned in a collected video description.
+
+- [1 to 100](1-to-100.md) - https://youtube.com/@saasoperators
+- [100+ App Ideas in Health, Wealth & Self-Improvement](100-app-ideas-in-health-wealth-and-self-improvement.md) - https://offers.hubspot.com/health-wealth-self-app-ideas
+- [100+ Solopreneurs Making $1M/Year](100-solopreneurs-making-1m-year.md) - https://starterstory.com/million-dollar-solopreneurs-lm
+- [190+ Micro SaaS Ideas Making Millions](190-micro-saas-ideas-making-millions.md) - https://offers.hubspot.com/micro-saas-database
+- [@Ucbq73Vil Z6Fnvxhtjfopzg on youtube.com](ucbq73vil-z6fnvxhtjfopzg-on-youtube-com.md) - https://youtube.com/@UCBQ73vil_z6FNvxhTJFopZg
+- [AI App Ideas Making Millions](ai-app-ideas-making-millions.md) - https://offers.hubspot.com/ai-app-idea-database
+- [Algrow - Research and Create Viral Content](algrow-research-and-create-viral-content.md) - https://algrow.online/
+- [An Nayal (@consumerxai) on X](an-nayal-consumerxai-on-x.md) - https://x.com/consumerxai
+- [An Nayal - Founder of Flamme (acquired) & Agniverse](an-nayal-founder-of-flamme-acquired-and-agniverse.md) - https://annayal.com/
+- [AppFounder](appfounder.md) - https://skool.com/appfounder/about
+- [Ayush 🙏 (@ayushtweetshere) on X](ayush-ayushtweetshere-on-x.md) - https://x.com/ayushtweetshere
+- [Ben Leavitt (@iambenleavitt) on X](ben-leavitt-iambenleavitt-on-x.md) - https://x.com/iambenleavitt
+- [Benji (@benjiianc) on X](benji-benjiianc-on-x.md) - https://x.com/benjiianc
+- [Bhanu Teja P (@pbteja1998) on X](bhanu-teja-p-pbteja1998-on-x.md) - https://x.com/pbteja1998
+- [Blake Anderson (@blakeandersonw) on X](blake-anderson-blakeandersonw-on-x.md) - https://x.com/blakeandersonw
+- [BlogToPin - Best Pinterest Automation Tool](blogtopin-best-pinterest-automation-tool.md) - https://blogtopin.com/
+- [Bo (@bo_in_the_wild) • Instagram photos and videos](bo-bo-in-the-wild-instagram-photos-and-videos.md) - https://instagram.com/bo_in_the_wild
+- [Bo Ventures](bo-ventures.md) - https://youtube.com/@bohdansventures
+- [Bohdan Drozdov on LinkedIn](bohdan-drozdov-on-linkedin.md) - https://linkedin.com/in/bohdan-drozdov
+- [Brian Shin (@brianshinsh) on X](brian-shin-brianshinsh-on-x.md) - https://x.com/brianshinsh
+- [Bulk Product Mockup Generator](bulk-product-mockup-generator.md) - https://bulkmockup.com/
+- [Cal AI](cal-ai.md) - https://calai.app/
+- [Cardstock](cardstock.md) - https://openbraceapps.com/
+- [Cat on Chair - Pomodoro Timer with Cute Cat Companion](cat-on-chair-pomodoro-timer-with-cute-cat-companion.md) - https://catonchair.app/en
+- [Cedric Roberge (@Cedric_Roberge) on X](cedric-roberge-cedric-roberge-on-x.md) - https://x.com/Cedric_Roberge
+- [ChartDB - Database schema diagrams visualizer](chartdb-database-schema-diagrams-visualizer.md) - https://chartdb.io/
+- [ChartDetector AI — AI-Powered Trading Chart Analysis App](chartdetector-ai-ai-powered-trading-chart-analysis-app.md) - https://chartdetectorai.com/
+- [Christian Rac (@Christianisrac) on X](christian-rac-christianisrac-on-x.md) - https://x.com/Christianisrac
+- [CutCoach - Cut Weight Effortlessly](cutcoach-cut-weight-effortlessly.md) - https://cutcoach.app/
+- [David Ch (@chhddavid) on X](david-ch-chhddavid-on-x.md) - https://x.com/chhddavid
+- [Delve](delve.md) - https://delve.co/book-demo
+- [Erly](erly.md) - https://erly.co/
+- [Ethan Cajigas (@aureliuscajigas) on X](ethan-cajigas-aureliuscajigas-on-x.md) - https://x.com/aureliuscajigas
+- [Evan Yadegari (@EvanYadegari) on X](evan-yadegari-evanyadegari-on-x.md) - https://x.com/EvanYadegari
+- [FLOGA: The Intelligent Yoga Experience That Adapts to You](floga-the-intelligent-yoga-experience-that-adapts-to-you.md) - https://floga.io/
+- [Florian Vates 195429244 on LinkedIn](florian-vates-195429244-on-linkedin.md) - https://linkedin.com/in/florian-vates-195429244
+- [Florin Pop 👨🏻‍💻 (@FlorinPop17) on X](florin-pop-florinpop17-on-x.md) - https://x.com/FlorinPop17
+- [FollowBuddy](followbuddy.md) - https://followbuddy.com/
+- [From 0 to 1 Million Users in 6 Months: How I Built My Viral App (Playbook)](from-0-to-1-million-users-in-6-months-how-i-built-my-viral-app-playbook.md) - https://tally.so/r/BzZpA4
+- [Glam Up - Perfect Your Look](glam-up-perfect-your-look.md) - https://glamup.ai/
+- [Glowly AI - Maximise your potential](glowly-ai-maximise-your-potential.md) - https://glowlyaiapp.com/
+- [Gojiberry AI - Grow your sales with warm leads & high intent outreach](gojiberry-ai-grow-your-sales-with-warm-leads-and-high-intent-outreach.md) - https://gojiberry.ai/
+- [GoTall - Track & Predict Your Height](gotall-track-and-predict-your-height.md) - https://gotall.app/
+- [Hampton, the private network for high-growth founders.](hampton-the-private-network-for-high-growth-founders.md) - https://joinhampton.com/
+- [Hasaam (@hasaamb) on X](hasaam-hasaamb-on-x.md) - https://x.com/hasaamb
+- [Hiro Analytics - Automated Klaviyo Reporting](hiro-analytics-automated-klaviyo-reporting.md) - https://hiroanalytics.com/
+- [HubSpot Presents: How to Find a $1M Business Idea](hubspot-presents-how-to-find-a-1m-business-idea.md) - https://offers.hubspot.com/how-to-find-a-1m-business-idea
+- [iOS App Ideas](ios-app-ideas.md) - https://starterstory.com/ios-app-ideas-lm
+- [iOS App Ideas Database](ios-app-ideas-database.md) - https://offers.hubspot.com/ios-app-ideas-database
+- [Ivan Nedlekovski on LinkedIn](ivan-nedlekovski-on-linkedin.md) - https://linkedin.com/in/ivan-nedlekovski
+- [jack friks](jack-friks.md) - https://jackfriks.com/
+- [jack friks (@jackfriks) on X](jack-friks-jackfriks-on-x.md) - https://x.com/jackfriks
+- [Jack Kavanagh (@jackdoesecom) on X](jack-kavanagh-jackdoesecom-on-x.md) - https://x.com/jackdoesecom
+- [Jackdoesecom on LinkedIn](jackdoesecom-on-linkedin.md) - https://linkedin.com/in/jackdoesecom
+- [Jacky Chou](jacky-chou.md) - https://jackychou.com/
+- [Jacky Chou (buying online businesses up to $1m) (@indexsy) on X](jacky-chou-buying-online-businesses-up-to-1m-indexsy-on-x.md) - https://x.com/indexsy
+- [Jakeglacer on LinkedIn](jakeglacer-on-linkedin.md) - https://linkedin.com/in/jakeglacer
+- [Jeremy Redman (@thejeremyredman) on X](jeremy-redman-thejeremyredman-on-x.md) - https://x.com/thejeremyredman
+- [Jhylee on LinkedIn](jhylee-on-linkedin.md) - https://linkedin.com/in/jhylee
+- [Jonathan Fishner (@jonathanfishner) on X](jonathan-fishner-jonathanfishner-on-x.md) - https://x.com/jonathanfishner
+- [Jordan Rejaud (@JordanRejaud) on X](jordan-rejaud-jordanrejaud-on-x.md) - https://x.com/jordanrejaud
+- [Journable — AI Calorie Counter](journable-ai-calorie-counter.md) - https://journable.com/
+- [Katie Keith (@KatieKeithBarn2) on X](katie-keith-katiekeithbarn2-on-x.md) - https://x.com/KatieKeithBarn2
+- [Kleo - #1 AI Personal Brand Tool](kleo-1-ai-personal-brand-tool.md) - https://kleo.so/
+- [Kyan (@kyanbuilds) on X](kyan-kyanbuilds-on-x.md) - https://x.com/kyanbuilds
+- [Kylefowler2 on LinkedIn](kylefowler2-on-linkedin.md) - https://linkedin.com/in/kylefowler2
+- [Lancer - Upwork AI Agent](lancer-upwork-ai-agent.md) - https://lancer.app/
+- [Lara Acosta (@Laraacostar) on X](lara-acosta-laraacostar-on-x.md) - https://x.com/Laraacostar
+- [LeadQuest - strava but for startups](leadquest-strava-but-for-startups.md) - https://leadquest.ai/
+- [Live Tourney](live-tourney.md) - https://livetourney.com/
+- [LOCKED](locked.md) - https://trylocked.app/
+- [Maddox Schmidlkofer (@_maddox1337) on X](maddox-schmidlkofer-maddox1337-on-x.md) - https://x.com/_maddox1337
+- [MaddoxCloud](maddoxcloud.md) - https://maddoxcloud.com/
+- [Marc Lou](marc-lou.md) - https://marclou.com/
+- [Marc Lou (@marclou) on X](marc-lou-marclou-on-x.md) - https://x.com/marclou
+- [Matt Robinson 543B2678 on LinkedIn](matt-robinson-543b2678-on-linkedin.md) - https://linkedin.com/in/matt-robinson-543b2678
+- [Mau Baron (@maubaron) on X](mau-baron-maubaron-on-x.md) - https://x.com/maubaron
+- [Michael Que (@michaelque22) on X](michael-que-michaelque22-on-x.md) - https://x.com/michaelque22
+- [Miquelpalet on LinkedIn](miquelpalet-on-linkedin.md) - https://linkedin.com/in/miquelpalet
+- [Mobile App Growth Cheat Sheet](mobile-app-growth-cheat-sheet.md) - https://offers.hubspot.com/mobile-app-growth
+- [MonAi - See your spending clearly. Effortlessly.](monai-see-your-spending-clearly-effortlessly.md) - https://get-monai.app/
+- [My First Million](my-first-million.md) - https://offers.hubspot.com/100m-business-lifestyle
+- [Nevo David (@wickedguro) on X](nevo-david-wickedguro-on-x.md) - https://x.com/wickedguro
+- [Nic Polotnianko 🇺🇦 (@nikpolale) on X](nic-polotnianko-nikpolale-on-x.md) - https://x.com/nikpolale
+- [Nicole (@madebycol) on X](nicole-madebycol-on-x.md) - https://x.com/madebycol
+- [Once: Disposable Camera for Your Precious Moment](once-disposable-camera-for-your-precious-moment.md) - https://once.film/
+- [One Million Dollar Grid](one-million-dollar-grid.md) - https://florin-pop.com/one-million
+- [Parakeet Chat - Talk with your loved ones, Connect them to the world](parakeet-chat-talk-with-your-loved-ones-connect-them-to-the-world.md) - https://parakeet.chat/
+- [Pckgr](pckgr.md) - https://intunepckgr.com/
+- [Pep AI - Stay on track with your peptides](pep-ai-stay-on-track-with-your-peptides.md) - https://pepaiapp.com/
+- [Postiz: The All-in-One agentic social media scheduling tool](postiz-the-all-in-one-agentic-social-media-scheduling-tool.md) - https://postiz.com/
+- [prayer lock](prayer-lock.md) - https://prayerlock.com/
+- [Private AI for Mac](private-ai-for-mac.md) - https://elephas.app/
+- [Profit AI](profit-ai.md) - https://tryprofit.ai/
+- [Quality WordPress & WooCommerce Plugins](quality-wordpress-and-woocommerce-plugins.md) - https://barn2.com/
+- [Romàn (@romanbuildsaas) on X](rom-n-romanbuildsaas-on-x.md) - https://x.com/romanbuildsaas
+- [Ryanqyao on LinkedIn](ryanqyao-on-linkedin.md) - https://linkedin.com/in/ryanqyao
+- [sam (@samgrows) on X](sam-samgrows-on-x.md) - https://x.com/samgrows
+- [Sam Parr (@thesamparr) on X](sam-parr-thesamparr-on-x.md) - https://x.com/thesamparr
+- [Sam Parr (@thesamparr) • Instagram photos and videos](sam-parr-thesamparr-instagram-photos-and-videos.md) - https://instagram.com/thesamparr
+- [sarah @hothighpriestess (@hhpriestess) on X](sarah-hothighpriestess-hhpriestess-on-x.md) - https://x.com/hhpriestess
+- [Scanémon](scan-mon.md) - https://scanemon.com/
+- [Ship Your First iOS App in 7 Days](ship-your-first-ios-app-in-7-days.md) - https://offers.hubspot.com/ship-first-ios-app-in-7-days
+- [Shipper.now](shipper-now.md) - https://shipper.now/
+- [Short-Form Content Tracker [Spreadsheet]](short-form-content-tracker-spreadsheet.md) - https://starterstory.com/short-form-tracker
+- [SideProduct](sideproduct.md) - https://sideproduct.com/
+- [Site Not Found](site-not-found.md) - https://snagapp.com/
+- [SiteGPT - Make AI your expert customer support agent](sitegpt-make-ai-your-expert-customer-support-agent.md) - https://sitegpt.ai/
+- [snag competitors customers by just pasting your URL](snag-competitors-customers-by-just-pasting-your-url.md) - https://snagthem.com/
+- [Sprout - AI Job Search](sprout-ai-job-search.md) - https://usesprout.com/
+- [Starter Story Build on YouTube](starter-story-build-on-youtube.md) - https://youtube.com/@StarterStoryBuild
+- [Starter Story Build: With AI, you can build anything.](starter-story-build-with-ai-you-can-build-anything.md) - https://build.starterstory.com/
+- [Starter Story Database](starter-story-database.md) - https://offers.hubspot.com/solve-million-dollar-problems
+- [Starter Story Jobs](starter-story-jobs.md) - https://starterstory.com/jobs
+- [Starter Story's Unsexy Business Ideas Database](starter-story-s-unsexy-business-ideas-database.md) - https://offers.hubspot.com/business-ideas-in-unsexy-niches
+- [Starter Story: Pat Walls](starter-story-pat-walls.md) - https://offers.hubspot.com/starter-story-pat-walls
+- [Steve Hoyek (@stevehoyek) on X](steve-hoyek-stevehoyek-on-x.md) - https://x.com/stevehoyek
+- [Subscribe to The Hustle](subscribe-to-the-hustle.md) - https://thehustle.co/join
+- [Supademo: AI Interactive Product Demos](supademo-ai-interactive-product-demos.md) - https://supademo.com/
+- [Take a demo of the Vanta platform and receive $1,000 off](take-a-demo-of-the-vanta-platform-and-receive-1-000-off.md) - https://vanta.com/lp/demo-1k
+- [The $1M Attention Guide](the-1m-attention-guide.md) - https://offers.hubspot.com/guide-on-getting-attention
+- [The $1M Solopreneur MVP](the-1m-solopreneur-mvp.md) - https://offers.hubspot.com/1m-solopreneur-mvp
+- [The iOS Bootcamp: Build Your First Mobile App with Claude Code](the-ios-bootcamp-build-your-first-mobile-app-with-claude-code.md) - https://build.starterstory.com/build/the-ios-bootcamp
+- [The Jeremy Redman](the-jeremy-redman.md) - https://youtube.com/c/TheJeremyRedman
+- [The Organic Short Form Playbook](the-organic-short-form-playbook.md) - https://offers.hubspot.com/organic-short-form-playbook
+- [The Playbook: Communities](the-playbook-communities.md) - https://build.starterstory.com/build/playbook-communities
+- [The Playbook: Organic Short Form](the-playbook-organic-short-form.md) - https://build.starterstory.com/build/playbook-organic-short-form
+- [The Playbook: Personal Brand](the-playbook-personal-brand.md) - https://build.starterstory.com/build/playbook-personal-brand
+- [Thomas Mahony on LinkedIn](thomas-mahony-on-linkedin.md) - https://linkedin.com/in/thomas-mahony
+- [Timo Köhler (@timoxkoehler) on X](timo-k-hler-timoxkoehler-on-x.md) - https://x.com/timoxkoehler
+- [Tomer (@tomercn) on X](tomer-tomercn-on-x.md) - https://x.com/tomercn
+- [ToneAdapt - Precision Guitar Tone Matching](toneadapt-precision-guitar-tone-matching.md) - https://toneadapt.com/
+- [Turn AI Agent Skills Into Cold Hard Cash](turn-ai-agent-skills-into-cold-hard-cash.md) - https://offers.hubspot.com/money-making-ai-agents
+- [Umberto Mezzadra A6A77113 on LinkedIn](umberto-mezzadra-a6a77113-on-linkedin.md) - https://linkedin.com/in/umberto-mezzadra-a6a77113
+- [User Profile Not Found - X](user-profile-not-found-x.md) - https://x.com/Braylin2x
+- [Vikash | building TubeAlfred.com (@vikashkprajapat) on X](vikash-building-tubealfred-com-vikashkprajapat-on-x.md) - https://x.com/vikashkprajapat
+- [VSC Master Prompt + Swipe File Template (by consumerxai).pdf - Google Drive](vsc-master-prompt-swipe-file-template-by-consumerxai-pdf-google-drive.md) - https://drive.google.com/file/d/1mbimxJ1WTSSaRHk-6ig0Issdg-ng18NQ/edit
+- [William Baker](william-baker.md) - https://williambaker.co.uk/
+- [Your passport to tax savings](your-passport-to-tax-savings.md) - https://savvynomad.io/
+- [Zach Yadegari (@zach_yadegari) on X](zach-yadegari-zach-yadegari-on-x.md) - https://x.com/zach_yadegari
+- [Zcherin on LinkedIn](zcherin-on-linkedin.md) - https://linkedin.com/in/zcherin
+- [Zernio - Social Media & Messaging API for Developers & AI Agents](zernio-social-media-and-messaging-api-for-developers-and-ai-agents.md) - https://zernio.com/
+- [מחשבון קלוריות בקליק](link.md) - https://calbuddy.co.il/
+- [‎3AK Sprinting App - App Store](3ak-sprinting-app-app-store.md) - https://apps.apple.com/us/app/3ak-sprinting/id6756290066
+- [‎Stella - Manifest Anything App - App Store](stella-manifest-anything-app-app-store.md) - https://apps.apple.com/us/app/stella-manifest-anything/id6757347283
