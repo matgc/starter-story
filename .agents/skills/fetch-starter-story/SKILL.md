@@ -23,7 +23,7 @@ Run this task skill only when the user explicitly asks to fetch or sync videos. 
 Run:
 
 ```bash
-python3 .pi/skills/fetch-starter-story/scripts/collect.py --repo-root .
+python3 .agents/skills/fetch-starter-story/scripts/collect.py --repo-root .
 ```
 
 The command prints a temporary workspace under `artifacts/`. Read its `manifest.json`. Stop when `video_count` is zero, then clean the workspace.
@@ -79,7 +79,7 @@ yt-dlp -x --audio-format mp3 -o '<workspace>/audio/%(id)s.%(ext)s' 'https://www.
 6. Clean the exact workspace printed by the collector:
 
 ```bash
-python3 .pi/skills/fetch-starter-story/scripts/cleanup.py '<workspace>'
+python3 .agents/skills/fetch-starter-story/scripts/cleanup.py '<workspace>'
 ```
 
 7. Verify `artifacts/` contains no audio, video, caption, metadata, or temporary sync files.

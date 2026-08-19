@@ -11,7 +11,7 @@ The archive is designed for builders who need practical help with marketing, dis
 - [Per-video marketing strategies](strategies/README.md)
 - [Cross-video marketing overview](strategies/overview.md)
 - [Description-link notes](links/README.md) - 145 canonical destinations
-- [Update skill](.pi/skills/fetch-starter-story/SKILL.md)
+- [Update skill](.agents/skills/fetch-starter-story/SKILL.md)
 
 Each video file contains:
 
@@ -35,7 +35,7 @@ strategies/
 links/
   README.md
   canonical-link-name.md
-.pi/skills/fetch-starter-story/
+.agents/skills/fetch-starter-story/
   SKILL.md
   references/
   scripts/
