@@ -1,0 +1,95 @@
+---
+video_id: "LRX8TWC2hTM"
+title: "I Make $60K/Month From the Most Boring SaaS on the Internet"
+published: 2026-03-15
+duration_seconds: 726
+source: https://www.youtube.com/watch?v=LRX8TWC2hTM
+transcript_source: YouTube automatic captions (English)
+---
+
+# I Make $60K/Month From the Most Boring SaaS on the Internet
+
+[Watch on YouTube](https://www.youtube.com/watch?v=LRX8TWC2hTM)
+
+## Marketing strategy summary
+
+- Target an overlooked operational niche: IT admins spending up to an hour packaging and verifying an application for Microsoft Intune, especially smaller businesses underserved by tools that were too technical or expensive.
+- Validate the pain through direct experience and forum research, then position Packager as a cost-affordable, browser-based tool that does one job: deploy applications to Intune with one click.
+- Launch the MVP free on Reddit to reach the exact audience, collect strong positive and negative feedback, fix early bugs, and stabilize the platform.
+- Introduce a $25-per-month subscription after the initial free launch to test willingness to pay early; the business later reached about $60,000 per month and thousands of paying customers.
+- Partner with Microsoft MVPs to publish product demos for highly targeted audiences; evergreen YouTube videos can still bring customers two years later.
+- Favor a small team, low costs, work-life balance, and a focused market over scale at all costs; the business remained 100% bootstrapped.
+
+### Reusable playbook
+
+1. Start in a field where you have credibility and look for repeated, time-consuming complaints rather than abstract ideas.
+2. Confirm the pain in specialist forums and identify an underserved segment that finds existing options too complex or expensive.
+3. Build one simple job-to-be-done, launch early in the audience's community, and use feedback to fix and stabilize it.
+4. Charge a modest price during beta to validate real purchase intent before investing further.
+5. Partner with trusted specialists to create targeted, evergreen demos that compound over time.
+6. Keep the team and costs small, then continuously improve the product around customer needs.
+
+## Transcript
+
+> This transcript was derived from YouTube's English automatic captions. Timestamps mark the start of each caption group. Names and technical terms may contain captioning errors.
+
+[00:00:00] to the outside [music] world, it's really boring, but now we're making about 60k a month. If you look online right now, literally everyone [music] is chasing the same AI app ideas. But, what if I told you that building in a boring [music] niche is actually where the real money's at? What started as a side project has since grown into a full-time business. Well, meet Thomas. He's a guy who spent years in a boring night-to-five doing the same manual tasks. Then, one day he thought, "What if I could automate all this and turn it into a business?"
+
+[00:00:31] I realized it can sometimes take, you know, an hour to successfully package [music] an application. But, when I looked more at the solutions out there, they didn't really fit what I wanted. So, he built and launched a tiny, boring app, and today that app makes over $60,000 a month. So, I asked Thomas to come onto the channel to break it all down. And in this episode, we'll dive into how to find boring app ideas that can make money, the one piece of content that got him hundreds of paying users overnight for free, and how a million-dollar idea might be sitting
+
+[00:01:02] right in front of your face right now. This one is going to be fun. I'm Pat Walls, and this is Starter Story. All right, guys. Real quick, before we dive in, Thomas is about to break down how he built this boring SaaS into a $60,000 per month business, and I think micro SaaS projects like this are super underrated. So, we put together a free report with 52 proven micro SaaS ideas that you can draw inspiration from.
+
+[00:01:27] We'll talk a little bit more about that later, but for now, let's get into the video. Okay, Tom. Welcome to the channel. Tell me about who you are, what you build, and what's your story. Hey, everyone. I'm the founder of Packager. It's a browser-based tool that's allows IT admins to deploy applications to a platform called Microsoft Intune with one click. And now we're making about 60k a month. As you can see here, we did 447k as opposed to 910k, which is really good growth for us and we're really happy with that.
+
+[00:01:59] That's insane. This business is doing $60,000 a month in this sort of like boring idea I've never even heard of. Let's talk about the idea and how you found this idea. I think a lot of people watching this are like, "Hey, where can I find an idea like this?" So, how did you come up with the idea for this and how did you validate it? As I was working with Intune, I realized it can sometimes take, you know, an hour to successfully package an application and verify that it's going to install. I started looking on forums and I noticed there were a lot of other IT admins that
+
+[00:02:29] had [music] the exact same problem. But, when I looked more at the solutions out there, they didn't really fit what I wanted. They were either too technical, too expensive. So, I thought, you know, there's room or there was the niche to build cost-affordable browser-based [music] modern tool that could do, you know, just one simple job, deploy applications. When I built this, this was before AI coding tools like Cursor and Claude Code existed. A lot of this had to be manually written by myself. I can definitely say it's great now that some AI tools do exist and makes it a
+
+[00:03:01] lot easier. Okay, cool. Well, thanks for sharing that. The more important thing to talk about now is obviously distribution validation. So, how did you find your first customer for this boring SaaS? And how did you grow it from there? Once we had, at the time, what we thought was a working MVP, we knew it was time to get it out there and see if anyone actually was interested in using the product. We knew that Reddit would be the best place to do this. So, we launched the product completely free. It gained a lot of traction quickly and some loved the product, some gave us
+
+[00:03:31] really good feedback, and there were some people that were just downright rude and left, you know, [music] pretty harsh comments. And that's something I've had to really learn, if you want to make it, you sort of have to be able to accept that some people are just not going to like what you built. After fixing the early bugs and stabilizing the platform based on the initial feedback, we decided to bring in a $25 US dollar subscription fee per month.
+
+[00:03:55] That's when we start to make money from it. I remember sitting there and getting the first notification on my phone of a customer signed up and was actually willing to pay for something I built. It was very exciting. Once we moved past the initial beta phase, probably the most effective strategy and something I'd recommend for everyone is partnering with people who specialize in the product. So, for us that was Microsoft MVPs. They would create demos of the product which was a highly targeted audience. That approach was really, really good because I'm really into like
+
+[00:04:24] planting seeds for marketing and so like a YouTube video for instance, someone could stumble across it 2 years later and [music] become a customer. Just something that you paid for a long time ago. So, that return on investment is Thomas's story is incredible. $60,000 a month, thousands of paying [music] customers, and 100% bootstrapped. But, here's the thing about the type of people that use this product. They really care about security and compliance. These are the types of customers who want to know whether your product is SOC 2 compliant or ISO 27001 certified. And if the answer is no, you
+
+[00:04:58] might be in trouble. This is why we partnered with Vanta on this video. Vanta automates all the painful parts of compliance so you can keep building instead of drowning in paperwork. Right now, Vanta is offering a special deal for Starter Story viewers. So, if you're building for and want to skip the compliance headache, then check out Vanta at the first link in the description. Huge thank you to Vanta for this partnership.
+
+[00:05:22] All right, let's get back to the episode. You found a great SaaS idea, but I think a lot of people watching this are wondering, "How do I find a low competition niche SaaS that can make $60,000 a month?" So, if you were to start over today knowing everything that you know, what would you do? Step one is to build in an area where you already have credibility. For instance, working in Microsoft Intune to the outside world, but I was living and breathing Microsoft Intune. I've even had customers [music] talk to me when I've supported them with something that they can tell that I really love what
+
+[00:05:51] I'm doing. So, find something that you're credible in. Step two is to look for pain points instead of ideas. If you're noticing that people where you're working [music] are complaining about something, look to see if there's a solution there that you can build a product customers will ultimately end up buying to help with that issue. Step three is to avoid competing with the masses. While they fight over the huge markets, there's an always opportunity to target the smaller audiences that want something different. And [music] in our instance, it was the competitors
+
+[00:06:20] focusing on the customers with millions of devices where we were targeting the smaller businesses and there was plenty of them and enough for us to make a full-time business out of it. Step four is to charge early even if the price is low. We charged during the beta and I guess that really validated that customers were willing to pay. There's no point chasing that idea if in the early stages no one's willing to pay for it. doesn't make any sense. Step five is to optimize for freedom instead of scale at all costs. [music] So, for us, we've got a really small team. We focused on
+
+[00:06:54] running things with small costs. That means that the income that we make is ours and we've been able to work from home and we've been able to have work-life balance. And I can truly say that building the business I've been able to build a life that I'm really happy with. Okay, this is what I love about Thomas's story. He did not build something flashy. He found a boring overlooked problem and now he makes $60,000 a month from it. So, you might be watching and wondering, where do I find a niche like that? And that's exactly why we built the Micro SaaS Ideas Database. It's a
+
+[00:07:28] free report breaking down 52 Micro SaaS ideas that are already making millions with real revenue numbers, growth tactics, and pricing models that actually work. You can dig through this data right now and find a boring [music] profitable niche that nobody's paying attention to. So, my question is what are you waiting for? Hit the link in the description, grab the report for free and start building your next idea.
+
+[00:07:50] [music] All right, let's get back to the episode. Thanks for sharing that playbook. Great playbook for trying to find a SaaS in 2026. I really still don't understand this Microsoft Intune thing. Would you be able to just show me a quick demo of how it works? It's a browser-based tool that helps IT admins deploy software through Microsoft Intune with one click. We're here in the app library. We've got our test company packages selected. All we need to do is come here and select add an app. You can either select a custom application, which is something that you've uploaded
+
+[00:08:19] yourself, or one from our own catalog. So, we'll go and ahead and do one from the catalog. These are all pre-managed applications. For instance, we can come here, we can click 7-Zip, it gets added in and you can see here from the status it's awaiting deployment. So, we can come down and click deployment. You get a few options to change a few settings and do some advanced configurations and we'll just click deploy to Intune and that sends a request to the back-end servers, which packages up the app and uploads it into the Microsoft [music] tenant. And this springs open Intune and
+
+[00:08:52] we can see if the application is here ready to deploy. It brings in, you know, metadata like the description, uh logo and then you can, you know, view a different few different details. So, all we have to do is come down here and we can assign to all devices and that's it. It'll now deploy out to all the company Well, I have no idea exactly what you did there cuz I don't know anything about Microsoft Intune, but what I think is cool is that your app it does something pretty simple. I don't want to like make it feel smaller than it is cuz I'm sure it's complex behind the scenes,
+
+[00:09:19] but when I look at that it doesn't have any fancy design. It does something that's useful to companies to use and it makes $60,000 a month. I mean, that's amazing. On that same note, I'm curious. What's the tech stack behind this? How complicated was this to build? The main tech stack behind it is we use Bubble IO, which is on on end. We do all the package build and testing using GitHub actions, and we host all our code base there as well. We use Microsoft Azure for all our serverless functions, and then we use monday.com. We use that for tracking development progress and
+
+[00:09:50] managing tickets. And then on top of that, we have a Microsoft 365 [music] licensing for each of the staff members. Okay, cool. Well, thanks for sharing that. Last question that we ask all founders who come on Starter Story, if you could go back in time and stand on young Tom's shoulders before you built this $60,000 per month SaaS idea, what would be your advice?
+
+[00:10:08] My advice, and this goes for anyone, is just start. With the tools available today, low-code and ChatGPT, uh building software has never been more accessible, but the downside of that means that someone else could build your idea while you're still sitting there planning it. So, speed is the key. Get things going. You want to launch early and share it with your target audience, and then listen closely to the feedback that they provide. From there, it just becomes a continuous cycle of improving the product based on what the customers need and want, and there comes your continuous improvement
+
+[00:10:41] and development. Oh, cool. That's great advice. Thank you, Tom, for coming on the channel and sharing. You obviously didn't come here to benefit a whole lot because there's probably not a lot of Microsoft Intune users watching this. So, thank you for sharing and showing that you can make $60,000 from a boring SaaS. Thanks for having me on, guys. All right, Producer Gus, what do you It just reminds me that there's a million ways to build a successful I spend a lot of time on X. You probably do, too. A lot of people watching this do, like trying to find ideas from like
+
+[00:11:09] this like social media echo chamber bubble about all these AI app ideas. Like, if you want to find an idea that can actually make money in the long term, like his business. He didn't show these numbers, but I I assume it's really low churn. It's IT admins and people using this stuff inside of companies. It's extremely low churn. This is a great business. Anyone watching this should realize that if it's boring and it doesn't make sense, that might be actually direction to go.
+
+[00:11:32] Yeah, I can think about all the times I've sat in my 9-5's and thought, "Man, I wish this was easier." That's kind of what he did. If you are in a job and you're looking for an idea, you want to build something on the side, maybe you could do something similar. Even if you don't know how to code, if you want to do that, you can. You join Starter Story Build and if you do, we'll help you find an idea, help you build it and launch it and get in the hands of real users in just a couple days. I'll put that link in the description. Thank you guys for watching this one. See you
+
+[00:11:58] in the next one. Peace.
+
+## Links mentioned in the description
+
+- [Take a demo of the Vanta platform and receive $1,000 off](https://www.vanta.com/lp/demo-1k?utm_campaign=1k_offer&utm_source=starter-story&utm_medium=paid-partner) - [local notes](../../links/channel/take-a-demo-of-the-vanta-platform-and-receive-1-000-off.md)
+- [190+ Micro SaaS Ideas Making Millions](https://clickhubspot.com/kdm) - [local notes](../../links/channel/190-micro-saas-ideas-making-millions.md)
+- [Thomas Mahony on LinkedIn](https://www.linkedin.com/in/thomas-mahony/) - [local notes](../../links/video/thomas-mahony-on-linkedin.md)
+- [Pckgr](https://intunepckgr.com/) - [local notes](../../links/video/pckgr.md)
+- [Starter Story Build on YouTube](https://www.youtube.com/@StarterStoryBuild) - [local notes](../../links/channel/starter-story-build-on-youtube.md)
+- [Starter Story Jobs](https://www.starterstory.com/jobs) - [local notes](../../links/channel/starter-story-jobs.md)

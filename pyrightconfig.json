@@ -1,0 +1,14 @@
+{
+  "include": [
+    ".agents/skills/fetch-starter-story/scripts",
+    ".agents/skills/fetch-starter-story/tests"
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__"
+  ],
+  "extraPaths": [
+    ".agents/skills/fetch-starter-story/scripts"
+  ],
+  "typeCheckingMode": "basic"
+}

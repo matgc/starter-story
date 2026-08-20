@@ -1,0 +1,96 @@
+---
+video_id: "MLAH5OZ5FO8"
+title: "How I Built a $4M Business (Simple Strategy)"
+published: 2025-08-27
+duration_seconds: 700
+source: https://www.youtube.com/watch?v=MLAH5OZ5FO8
+transcript_source: YouTube automatic captions (en-orig)
+---
+
+# How I Built a $4M Business (Simple Strategy)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=MLAH5OZ5FO8)
+
+## Marketing strategy summary
+
+- Alia sells pop-up software to e-commerce brands; its original education-and-loyalty positioning confused prospects about where it fit and what it replaced, leaving the company with only a few customers.
+- The founders used their best customers' actual perception as validation: customers already treated and paid for Alia as a pop-up tool, so the company narrowed its category instead of insisting on a novel description.
+- Sales calls were the first low-risk positioning test. Calling Alia a pop-up tool made calls shorter and clearer and improved close rates before the team changed the broader brand.
+- The company then repeated one association everywhere: website copy says "pop-ups," founder content says "Pop-ups equals Alia," sales calls open with it, and internal language guides support, sales, and management decisions.
+- Founder content and category recall create inbound distribution: when people ask for the best pop-up tool on X or in Slack communities, the clear association is intended to make Alia the recommendation.
+- Growth was managed one customer at a time: learn how the first five arrived, apply those lessons to the next five or ten, and only then scale toward hundreds or thousands.
+- Alia reports about 1,500 brands using the product and growth from zero revenue to $4 million ARR after repositioning; the transcript does not disclose pricing, costs, margins, retention, or independently verified financials.
+
+### Reusable playbook
+
+1. Ask the best current customers what category they already place the product in, what they use it for, and what it replaces.
+2. Choose the narrowest familiar category that matches why those customers pay.
+3. Test that wording on sales calls first, measuring comprehension, call length, excitement, and close rate.
+4. If the signal improves, publish focused founder content and compare its response with earlier messaging.
+5. Roll the winning phrase into the website, product copy, support language, and team decision rules.
+6. Own one category through repetition, then study each small customer cohort before trying to scale.
+
+## Transcript
+
+> This transcript was derived from YouTube's English automatic captions. Timestamps mark the start of each caption group. Names and technical terms may contain captioning errors.
+
+[00:00:00] I'm Sean, co-founder, CEO of Alia. And by reading one very specific book, we went from $0 in revenue to 4 million ARR. This is Sean, and he runs a SAS tool doing over 4 million ARR. But it didn't start that way. It took us about 6 months to get from two customers to about 20 customers. In the first year, him and his co-founders were lost. They had a handful of customers, but no real traction. Then they made one small We were a company before. We are still this company, but we focus on this new thing. This is all we care about. A simple shift in how they positioned the
+
+[00:00:34] product and then everything exploded. And last year, we went from $0 in revenue to 4 million ARR once we figured out our position. So, I brought him on the channel to really break down what they changed and why. And in this video, we'll get into what positioning really means for startups, the specific changes that Shawn made to their product and marketing, which made them grow, and how you might be able to make a few small changes that change the trajectory of your business. All right, this one's going to be good. I'm Pat Walls, and this is Starter Story. All right, Sean,
+
+[00:01:08] welcome to the channel. Tell me about who you are, what you build, and what's your story. I'm Sean, co-founder, CEO of Alia. And what we do is we sell pop-ups to e-commerce brands because of repositioning our company by reading one very specific book. We went from zero dollars in revenue to four million ARR. And before the book, we had no product market fit, no revenue, and no happy All right. Before we get into all that, I do want to understand what is Alia?
+
+[00:01:33] What does it do? What problem does it Yeah, totally. So, imagine you're shopping online at any e-commerce brand and you see this thing on the screen and it says enter your email to get 15% off whatever that flow looks like and whatever that pop-up looks like is our company. We decided to go all in on that and we've chosen to do nothing else besides that one thing which is called pop-ups. In terms of some cool customers we have, one would be Nike Strength which was super awesome to get. Tom's shoes which is a pretty massive brand. a bunch of really really cool brands you
+
+[00:02:03] work with and uh we have about 1500 brands using our pop-up books which has been super awesome. All right, that's really impressive and you guys grew crazy fast. You said zero to four million in just about a year. Before we get into that, I do want to go back cuz I know that when you first started, you didn't really feel like you had it all figured out right away. Can you take us back to the early days of When we started, right, I was in college. I actually built this at my university for a club, like a fintech club on campus. I thought it could be cool to try it as a business. So, we
+
+[00:02:33] did. So, we decided that e-commerce would be where we would sell our software. And before it was a pop-up, it was kind of more of a loyalty program, an education tool. And the difficulty in me being able to describe to you what it was kind of shows the issue with positioning. We started the company. We had two customers. One was my co-founder's cousin and the other was this girl from my class at university.
+
+[00:02:55] People were like, "Hey, this is cool, but where does it fit in my tech stack? What do I replace with it? And who are Once you had you're at this place where you had a couple customers, you're looking for what's the next move? How do I take this to the next level? What changed for where you went from two customers to where you had hundreds of customers in really just a year? So my co-founder reads a book called Obviously Awesome. So we read it and we understood that the customers had perceived us differently than what we were selling.
+
+[00:03:21] And it was a hard pill to swallow, but it was an important one. We realized that we're actually not an education tool. We're not a loyalty tool. We're a pop-up tool. We decided to go all in on What did the book say? Give me the the big idea from the book so that someone watching this has no idea what the book's about. What was like the big thing the book said?
+
+[00:03:37] Totally. Yeah. So, in the book obviously awesome. Essentially, it talked about how do your customers perceive you? Like what are they using you as and what do your best customers think of you as? I wanted to believe my best customers thought of us as an innovative new customer education tool. The hard truth is that they didn't think of us as that. They actually thought of us as a pop-up tool. If our best customers think of us as a pop-up tool and they pay us for that, you can extrapolate and say that a bunch of other customers who think of us as a pop-up tool might pay us some
+
+[00:04:05] money. I think we should try to become that thing and see how the market responds to it. And the market responded well and we knew that hey this is this is the golden ticket we have here. That's insane. I mean you can read one book and it can change your entire business. I would love to learn more about this positioning idea. I know it's sort of a highle concept. What did it actually mean to go pivot your business basically and reposition everything?
+
+[00:04:30] The way we did it is with four main things. The first is changing the copy on the website. So when we revamped our website, the biggest thing is what can this tagline say? As you can see right here, the next generation of pop-ups. And when I click on product, this says pop-up features. It doesn't say product features because these are only features that exist inside of the pop-up, which is all that we do. We are the best at pop-ups. Why? And then we answer that why question here. So people are like, okay, cool. like this is why and this makes sense to me. The second is when
+
+[00:04:57] you make content, you write content about what your business is when you've repositioned it. I actually have a bookmark post right here. We're at 3.5 million AR pop-ups. That's all we do. Pop-ups equals Alia. Alia equals pop-ups. So now when people see this, I I I pinned it to my profile. If someone wants to look me up, this is the first thing they're going to see. And then this association sticks in their head.
+
+[00:05:16] And that's where you create inbound demand and that's where you scale a business. The third is sales calls, right? When you're in a sales calls, I hop on a call and say, "Hey, I'm Sean. I'm the CEO. We do pop-ups." That's how I start my calls. Right away when you hop on the call, it's like, "Hey, I'm Sean. We do pop-ups and we care about pop-ups." And they're like, "Okay, cool.
+
+[00:05:33] Thanks." Like, that's helpful context. They know what they're here for. Fourth is internal language. Very, very important, right? Everyone on the team needs to understand that we were a company before. We are still this company, but we focus on this new thing. so that when they're doing CS, when they're doing sales, when management is making decisions, they can speak the same language that you speak to yourself, there's different tweets and Slack channels where people ask what's the best pop-up tool. And if you have that connection between yourself and that specific thing, every single reply
+
+[00:06:01] is going to be use or use whatever your company is because they know that you do that thing. All right, before we get back to Sean's story about how he grew this business to 4 million ARR, we got to talk about what comes first. Shawn obviously didn't start with this brilliant strategy. Him and his co-founders learned this on the fly while building, marketing, and talking to customers. But here's the thing, none of these things can happen until you have an idea that you're excited about.
+
+[00:06:28] And this is exactly why we launched Starter Story Build. In Starter Story Build, you'll join hundreds of other builders. You'll get access to experts, and we'll walk you through our complete framework for ideulating, building, and shipping your project. If you're ready to build your idea, just head to the first link in the description to check out Starter Story Build. All right, let's get back to the story. You had built this company. You had two customers. You're seeing other people online that have hundreds or thousands of customers. There's probably some uncertainty, something there. How did
+
+[00:06:58] that feel in that in that moment where you didn't have it figured out yet? What gave me comfort was the fact that they were once in my shoes and the fact that they once too had two customers who didn't want to use their product and they ended up figuring it out. The way that I was able to set goals for myself was very simple. We had two customers. My only goal was to get a third. Once we got a third, my goal was to get a fourth, a fifth, so on. So that when you get to three customers, you're like, "Oh, wow. I got a new customer." And you're not like, "Damn, this company has
+
+[00:07:25] 20,000 customers. How will I ever get there?" It's not your job to get there right away. It's your job to get to a third, to get to a fourth, to get to a fifth, and understand how you got to those five. Take those learnings and then get your next five, your next 10, your next 100, your next thousand. What I'm curious to understand is when you kind of had those 20 customers before you made that change, I think some people who might be in a similar position are worried is what happens when I go too small, you know, niche down to a small feature or I cut out potentially other useful things of my
+
+[00:07:55] product. Tell me about in that moment, was it scary to go and just decide, hey, I'm going to just reposition the entire company. How did you get the courage to do that? It wasn't all at once. I mentioned the four things, website, content, sales calls, internal language. We didn't do all four at once. It was, "Let's hop on a sales call. Let's talk about pop-ups.
+
+[00:08:12] Let's say we're a pop-up tool, and let's see what the close rate looks like." I noticed very quickly on the calls, they were shorter, they were more succinct, and they closed more often. So, okay, sales calls are going well. Now, let's try to make some content around it. And that content did better than our previous content. Okay, that's kind of interesting. Then we changed the website, then we did the internal language, and then everyone was like, "Oh, okay. This makes sense. Let's flip everything now."
+
+[00:08:34] I mean, that's amazing. I think this whole idea of repositioning is super valuable insight. It's really one of the big reasons why I wanted to have you on the channel. For anyone who's watching this right now, they may have already started something. They may have their first couple customers, but they don't have product market fit, which you clearly have had in the last year. What would be your framework for someone watching this to potentially try what you did? So, the first step I would say, I got no affiliation to the book. I just think it's a good book. Read the book.
+
+[00:08:59] The second activity is do the positioning activities that they say. So, in the book, they're like, "Ask yourself these questions." And you should ask yourself those questions. If you have a team, if you have co-founders, do it with your co-founders. Third is try the positioning out on sales calls and see the live reaction of those customers. See if those close more often. See if they understand the product better and see if they're more excited about it. If you do those three, you will have a good sense of, okay, is this new position a better position? Even if it isn't, you
+
+[00:09:27] can go back to step two, talk to your co-founders again, go through those questions again, and maybe thinking about a new position that's going to be All right. Well, that's a great framework. I'm also curious about what does your team look like? I know that you bootstrap this business, but you do have some co-founders. What's that like? So, I have a team of 12 people. Three of us are co-founders. Cory and Bill have been absolutely amazing and the best co-founders possible. And something we have as a mantra at our company is Alia will be successful even if it means that
+
+[00:09:53] we're selling hot dogs on the side of the road. We can pivot, we can change, become a whole different company, but we are going to stick together and we are going to be successful. If you can find the people who are willing to do that with you, make the changes, pivot accordingly, those are the right people to have. The last question I have for you, Sean, is if you could go back in time, stand on Shawn's shoulders before you found this product market fit before you took this business from basically 0ero to 4 million in the span of about a year, what would be your advice for you
+
+[00:10:20] or really for anyone watching this right now? The first from positioning side I would tell myself do one thing and do that one thing phenomenally. From general founder advice when you're a younger founder the one currency you have that the incumbents of your industry don't have is speed and urgency. When it comes to the incumbents they can't move as quick as you. So when we chose to reposition ourselves we're now in an industry where folks have been there for 15 20 years and they're going to move slower than us inherently because they're a larger company. You
+
+[00:10:49] have that advantage. Nice. Well, thanks Sean. Thanks for coming on the channel. The business you built is amazing. The growth is insane. I'm so glad to have you on and hope to have you on again in the future. Yes, thank you for having me. I appreciate it. Thank you again to Sean for coming on to the channel. I personally loved hearing about this simple change that changed the trajectory of his business. If you're watching this today, I think that this is one of the most underrated concepts when it comes to building and finding product market fit. So, on that note, if you're ready to build
+
+[00:11:18] something, then I invite you to check out Starter Story Build. In Starter Story Build, we'll help you go from a simple idea to a real working app shipped to the real world in less than 2 weeks. If you're interested, just head to the first link in the description to check out Starter Story Build. Thank you for watching. We'll see you in the next one. Peace.
+
+## Links mentioned in the description
+
+- [Turn Your Idea Into A Real App Using Only AI](https://build.starterstory.com/build/ai-build-accelerator?utm_source=youtube&utm_campaign=shaan) - [local notes](../../links/channel/turn-your-idea-into-a-real-app-using-only-ai.md)
+- [Shaan Arora (@iamshaanarora) on X](https://x.com/iamshaanarora) - [local notes](../../links/video/shaan-arora-iamshaanarora-on-x.md)
+- [Starter Story Build on YouTube](https://www.youtube.com/@StarterStoryBuild) - [local notes](../../links/channel/starter-story-build-on-youtube.md)
+- [Starter Story Jobs](https://www.starterstory.com/jobs) - [local notes](../../links/channel/starter-story-jobs.md)
